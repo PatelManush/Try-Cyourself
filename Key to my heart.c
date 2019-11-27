@@ -12,8 +12,9 @@
 
  int main(void)
 {
-	char name[10],a[6];
-	a = M;
+	char name[10];
+	char a[6];
+	 
 	printf("enter you name\n");
 scanf("%s",&name);
 
