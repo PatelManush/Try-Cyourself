@@ -12,7 +12,7 @@
 
  int main(void)
 {
-	char name[10];
+	char name[10];//this is a character definition//
 	char a[6];
 	 
 	printf("enter you name\n");
