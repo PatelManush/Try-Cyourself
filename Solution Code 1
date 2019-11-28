@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main (void)
+{
+  char n;
+  char str[6]="Manush";//this is a character definition//
+
+  printf ("enter you name\n");
+  n = getchar ();
+
+
+  if (n == 'M')
+    {
+      printf ("you have access in my heart");
+    }
+  else
+    {
+      printf ("Get lost I hate you");
+    }
+  return (0);
+}
