@@ -6,7 +6,7 @@ int main (void)
   char str[6]="Manush";//this is a character definition//
 
   printf ("enter you name\n");
-  n = getchar ();
+  n = getchar ();//Here i am entering a user defined charactere.//
 
 
   if (n == 'M')
