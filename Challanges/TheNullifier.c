@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int ptr = NULL;
+	int ptr = NULL; //defining a null pointer.
 
 	printf("The value of pointer is= \n",ptr);
 
